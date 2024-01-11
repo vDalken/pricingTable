@@ -17,13 +17,13 @@ h1 {
   font-size: 35px;
 }
 
-section {
+main {
   display: flex;
   justify-content: center;
   gap: 24px;
 }
 
-div {
+article {
   background-color: rgb(74, 60, 80);
   padding: 50px;
   border-radius: 14px;
